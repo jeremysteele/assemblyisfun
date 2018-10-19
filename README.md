@@ -3,5 +3,5 @@ Intel Assembly Stuffz
 
 -----
 
-## [01LoopIncWrite](01LoopIncWrite/README.md)
+## [01LoopIncWrite](01LoopIncWrite)
 A simple loop/increment/write example
